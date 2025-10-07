@@ -13,3 +13,6 @@
 /home/obaturn/AuthMicroservice/Auth.Infrastructure/obj/Debug/net8.0/refint/Auth.Infrastructure.dll
 /home/obaturn/AuthMicroservice/Auth.Infrastructure/obj/Debug/net8.0/Auth.Infrastructure.pdb
 /home/obaturn/AuthMicroservice/Auth.Infrastructure/obj/Debug/net8.0/ref/Auth.Infrastructure.dll
+/home/obaturn/AuthMicroservice/Auth.Infrastructure/bin/Debug/net8.0/Auth.Infrastructure.runtimeconfig.json
+/home/obaturn/AuthMicroservice/Auth.Infrastructure/obj/Debug/net8.0/Auth.Infrastructure.sourcelink.json
+/home/obaturn/AuthMicroservice/Auth.Infrastructure/obj/Debug/net8.0/Auth.Infrastructure.genruntimeconfig.cache
