@@ -1,0 +1,118 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/obaturn/AuthMicroservice/Auth.Application/Auth.Application.csproj": {}
+  },
+  "projects": {
+    "/home/obaturn/AuthMicroservice/Auth.Application/Auth.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/obaturn/AuthMicroservice/Auth.Application/Auth.Application.csproj",
+        "projectName": "Auth.Application",
+        "projectPath": "/home/obaturn/AuthMicroservice/Auth.Application/Auth.Application.csproj",
+        "packagesPath": "/home/obaturn/.nuget/packages/",
+        "outputPath": "/home/obaturn/AuthMicroservice/Auth.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/obaturn/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/obaturn/AuthMicroservice/Auth.Domain/Auth.Domain.csproj": {
+                "projectPath": "/home/obaturn/AuthMicroservice/Auth.Domain/Auth.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.120/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/obaturn/AuthMicroservice/Auth.Domain/Auth.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/obaturn/AuthMicroservice/Auth.Domain/Auth.Domain.csproj",
+        "projectName": "Auth.Domain",
+        "projectPath": "/home/obaturn/AuthMicroservice/Auth.Domain/Auth.Domain.csproj",
+        "packagesPath": "/home/obaturn/.nuget/packages/",
+        "outputPath": "/home/obaturn/AuthMicroservice/Auth.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/obaturn/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.120/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

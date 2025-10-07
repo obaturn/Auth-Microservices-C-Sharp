@@ -1,0 +1,11 @@
+/home/obaturn/AuthMicroservice/Auth.Domain/bin/Debug/net8.0/Auth.Domain.deps.json
+/home/obaturn/AuthMicroservice/Auth.Domain/bin/Debug/net8.0/Auth.Domain.dll
+/home/obaturn/AuthMicroservice/Auth.Domain/bin/Debug/net8.0/Auth.Domain.pdb
+/home/obaturn/AuthMicroservice/Auth.Domain/obj/Debug/net8.0/Auth.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/obaturn/AuthMicroservice/Auth.Domain/obj/Debug/net8.0/Auth.Domain.AssemblyInfoInputs.cache
+/home/obaturn/AuthMicroservice/Auth.Domain/obj/Debug/net8.0/Auth.Domain.AssemblyInfo.cs
+/home/obaturn/AuthMicroservice/Auth.Domain/obj/Debug/net8.0/Auth.Domain.csproj.CoreCompileInputs.cache
+/home/obaturn/AuthMicroservice/Auth.Domain/obj/Debug/net8.0/Auth.Domain.dll
+/home/obaturn/AuthMicroservice/Auth.Domain/obj/Debug/net8.0/refint/Auth.Domain.dll
+/home/obaturn/AuthMicroservice/Auth.Domain/obj/Debug/net8.0/Auth.Domain.pdb
+/home/obaturn/AuthMicroservice/Auth.Domain/obj/Debug/net8.0/ref/Auth.Domain.dll

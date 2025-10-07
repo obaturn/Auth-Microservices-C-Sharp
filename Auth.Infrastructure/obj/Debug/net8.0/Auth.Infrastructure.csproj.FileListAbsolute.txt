@@ -1,0 +1,15 @@
+/home/obaturn/AuthMicroservice/Auth.Infrastructure/bin/Debug/net8.0/Auth.Infrastructure.deps.json
+/home/obaturn/AuthMicroservice/Auth.Infrastructure/bin/Debug/net8.0/Auth.Infrastructure.dll
+/home/obaturn/AuthMicroservice/Auth.Infrastructure/bin/Debug/net8.0/Auth.Infrastructure.pdb
+/home/obaturn/AuthMicroservice/Auth.Infrastructure/bin/Debug/net8.0/Auth.Domain.dll
+/home/obaturn/AuthMicroservice/Auth.Infrastructure/bin/Debug/net8.0/Auth.Domain.pdb
+/home/obaturn/AuthMicroservice/Auth.Infrastructure/obj/Debug/net8.0/Auth.Infrastructure.csproj.AssemblyReference.cache
+/home/obaturn/AuthMicroservice/Auth.Infrastructure/obj/Debug/net8.0/Auth.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/obaturn/AuthMicroservice/Auth.Infrastructure/obj/Debug/net8.0/Auth.Infrastructure.AssemblyInfoInputs.cache
+/home/obaturn/AuthMicroservice/Auth.Infrastructure/obj/Debug/net8.0/Auth.Infrastructure.AssemblyInfo.cs
+/home/obaturn/AuthMicroservice/Auth.Infrastructure/obj/Debug/net8.0/Auth.Infrastructure.csproj.CoreCompileInputs.cache
+/home/obaturn/AuthMicroservice/Auth.Infrastructure/obj/Debug/net8.0/Auth.Infrastructure.csproj.CopyComplete
+/home/obaturn/AuthMicroservice/Auth.Infrastructure/obj/Debug/net8.0/Auth.Infrastructure.dll
+/home/obaturn/AuthMicroservice/Auth.Infrastructure/obj/Debug/net8.0/refint/Auth.Infrastructure.dll
+/home/obaturn/AuthMicroservice/Auth.Infrastructure/obj/Debug/net8.0/Auth.Infrastructure.pdb
+/home/obaturn/AuthMicroservice/Auth.Infrastructure/obj/Debug/net8.0/ref/Auth.Infrastructure.dll
