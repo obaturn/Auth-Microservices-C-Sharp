@@ -1,0 +1,9 @@
+# Ignore environment files
+Auth.API/.env
+
+# Build outputs
+bin/
+obj/
+
+# VS Code
+.vscode/

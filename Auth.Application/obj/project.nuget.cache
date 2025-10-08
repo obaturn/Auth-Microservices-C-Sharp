@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "XGm3Pvm87FqquGwsWZe0hwdAmZY2N4/G9k1RVsWI+9EviuHnMd+GGJe7aoIrBVHOUz+yaX2kCXQax8Xmljoh5w==",
+  "dgSpecHash": "JkCZYJKz2kSoInLn9qz6S8VKyBSkX3iFMe7qdJRHO932N4gkCWpvwiBLiyryG9ZfZfeLlI+f50PoIInETkp0cg==",
   "success": true,
   "projectFilePath": "/home/obaturn/AuthMicroservice/Auth.Application/Auth.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/obaturn/.nuget/packages/bcrypt.net-next/4.0.2/bcrypt.net-next.4.0.2.nupkg.sha512"
+  ],
   "logs": []
 }
